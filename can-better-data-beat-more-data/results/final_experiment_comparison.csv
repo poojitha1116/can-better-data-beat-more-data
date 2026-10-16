@@ -1,5 +1,0 @@
-Arm,Experiment,Training examples,Test examples,Accuracy,Macro-F1,Invalid outputs,Invalid-output rate
-A,Arm A - Zero-shot,0,2000,0.5125,0.3854161295128653,19,0.0095
-B,"Arm B - 5,000 random",5000,2000,0.9155,0.8640851769249106,0,0.0
-C,Arm C - 500 balanced/filtered,500,2000,0.6075,0.5618391368085274,4,0.002
-D,Arm D - 500 random,500,2000,0.6855,0.6007370150144667,1,0.0005
